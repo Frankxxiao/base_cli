@@ -1,0 +1,16 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.xml
+ehthumbs.db
+Thumbs.db
+.log
+*.log
+node_modules
+dist
+prod
+lib
+!/src/pages/logs/
+!/src/pages/test/test.js
