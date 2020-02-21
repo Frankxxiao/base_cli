@@ -85,10 +85,7 @@ module.exports = {
             id: "babel",
             loaders: [
               {
-                loader: "babel-loader",
-                options: {
-                  presets: ["@babel/preset-env"]
-                }
+                loader: "babel-loader"
               }
             ],
             threadPool: happyThreadPool
